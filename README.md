@@ -34,8 +34,8 @@ GIF created with ...
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-
-(https://i.imgur.com/YzBG0fP.gifv) 
+[
+(https://i.imgur.com/YzBG0fP.gifv) ](https://imgur.com/YzBG0fP)
 
 ## Notes
 
